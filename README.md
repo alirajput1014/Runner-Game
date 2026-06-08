@@ -3,6 +3,13 @@
 A fast-paced and dynamic 3D Endless Runner game built in Unity using the **Universal Render Pipeline (URP)**. The project features physics-based reflex movement, procedural obstacle streaming, a clean modern input layout, and fully structured state management menus.
 
 ---
+## 🎬 Gameplay Demo
+
+[![Watch Gameplay Demo](https://drive.google.com/thumbnail?id=1Mz7WIN9UuHAPjCDwF4_lua4DjYH5-GIP&sz=w800)](https://drive.google.com/file/d/1Mz7WIN9UuHAPjCDwF4_lua4DjYH5-GIP/view?usp=sharing)
+
+> *Click the thumbnail above to watch the full gameplay demo.*
+
+---
 
 ## 🚀 Key Features
 
